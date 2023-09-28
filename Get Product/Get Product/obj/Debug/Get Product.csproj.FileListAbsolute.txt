@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\Get Product.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\Get Product.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\Get Product.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get_Product.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get_Product.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Get Product\Get Product\obj\Debug\Get Product.pdb
